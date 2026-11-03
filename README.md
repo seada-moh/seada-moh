@@ -43,10 +43,8 @@ I'm learning full-stack web development with the **MERN stack** and building pro
     <img src="https://streak-stats.demolab.com?user=seada-moh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
   
-  <!-- GitHub Stats Card -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=seada-moh&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  </a>
+  <!-- GitHub Stats Card (የተስተካከለ ሊንክ) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=seada-moh&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
   <br><br>
 

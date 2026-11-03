@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Sada 
+# Hi, I'm Sada 👋
 
 4th-year Computer Science student at **Debre Tabor University**, Ethiopia.  
 I'm learning full-stack web development with the **MERN stack** and building projects along the way.
